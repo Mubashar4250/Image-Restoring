@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Photo Restore",
+  "description": "Restore old, cracked, and faded photos into vibrant, DSLR-quality images using Google Gemini AI.",
+  "requestFramePermissions": []
+}
